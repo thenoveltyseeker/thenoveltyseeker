@@ -4,8 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?username=thenoveltyseeker)
 
-  <a href="https://github.com/thenoveltyseeker"><img src="https://github-readme-stats.vercel.app/api?username=thenoveltyseeker&hide_border=true&show_icons=true" alt="thenoveltyseeker's github stats"></a>
-
 <!--
 **thenoveltyseeker/thenoveltyseeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
