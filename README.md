@@ -4,7 +4,8 @@
 - 🔭 I’m currently working on Ghosty
 - 🌱 I’m currently learning Haskell
 - 👯 I’m looking to collaborate on open source android projects
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He
+
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thenoveltyseeker&theme=dark-smoky)](https://git.io/streak-stats)
