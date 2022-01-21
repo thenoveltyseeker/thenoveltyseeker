@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Ghosty
 - 🌱 I’m currently learning Haskell
 - 👯 I’m looking to collaborate on open source android projects
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 
 
 
